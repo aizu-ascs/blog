@@ -3,6 +3,7 @@ title = "ASCs blog"
 theme = "zzo"
 
 hasCJKLanguage = true
+defaultContentLanguage="ja"
 
 summaryLength = 70
 buildFuture = true

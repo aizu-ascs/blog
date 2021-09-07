@@ -1,5 +1,5 @@
 baseURL = "https://blog.ascs.dev"
-title = "Hugo Zzo Theme"
+title = "ASCs blog"
 theme = "zzo"
 
 hasCJKLanguage = true
@@ -7,7 +7,7 @@ hasCJKLanguage = true
 summaryLength = 70
 buildFuture = true
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year} Aizu Student Creators(ASCs)"
 timeout = 10000
 enableEmoji = true
 paginate = 13

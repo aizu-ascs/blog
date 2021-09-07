@@ -2,8 +2,6 @@ baseURL = "https://blog.ascs.dev"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
 summaryLength = 70

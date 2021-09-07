@@ -7,13 +7,13 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
-themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
+themeOptions = ["light", "dark", "hacker", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
-viewportSize = "wider" # widest, wider, wide, normal, narrow
+viewportSize = "wide" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true

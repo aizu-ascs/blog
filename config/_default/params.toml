@@ -1,6 +1,6 @@
-logoText = "Zzo"
+logoText = "ASCs"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Aizu Student Creators(ASCs)のブログ"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -13,7 +13,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "wider" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true
@@ -43,7 +43,7 @@ enableBreadcrumb = true
 enableGoToTop = true
 enableWhoami = true
 summaryShape = "classic" # card, classic, compact
-archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+archiveGroupByDate = "2006-01" # "2006-01": group by month, "2006": group by year
 archivePaginate = 13
 paginateWindow = 1
 talksPaginate = 5
@@ -60,14 +60,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "ASCs"
+# email = "zzossig@gmail.com"
+whoami = "Aizu Student Creators / 会津大学プロダクト開発コミュニティ"
 bioImageUrl = ""
-useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+useGravatar = true
+location = "会津大学"
+# organization = "Hugo"
+# link = "https://zzossig.io/ko"
 
 # sidebar
 enableBio = true
@@ -99,12 +99,12 @@ enableThemeChange = true
 googleTagManager = "" # GTM-XXXXXX
 baiduAnalytics = ""
 enableBusuanzi = false
-busuanziSiteUV = true
-busuanziSitePV = true
-busuanziPagePV = true
+busuanziSiteUV = false
+busuanziSitePV = false
+busuanziPagePV = false
 
 # rss
-updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updatePeriod = "hourly" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
 updateFrequency = ""
 fullContents = false
 
@@ -161,15 +161,15 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = ""
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = "https://twitter.com/AizuHack"
+  github = "https://github.com/aizu-ascs"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
-  youtube = ""
+  youtube = "https://www.youtube.com/channel/UCkp4FGD0oDd7IZqvilxEt1A"
   medium = ""
   tumblr = ""
   linkedin = ""

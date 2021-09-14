@@ -1,0 +1,8 @@
+h2{
+  font-weight: bold !important;
+}
+.single__contents h2
+{
+  color: #424242 !important;
+  border-bottom: solid 2px #555;
+}

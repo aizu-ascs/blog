@@ -4,7 +4,7 @@ description = "Aizu Student Creators(ASCs)のブログ"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
-meta_image = ""
+meta_image = "/images/logo_text_sub.jpg"
 themecolor = ""
 
 themeOptions = ["light", "dark", "hacker", "solarized", "kimbie"]
@@ -24,7 +24,7 @@ enableAppbarSearchIcon = false
 enableAppbarLangIcon = false
 
 # header
-homeHeaderType = "text" # text, img, slide, typewriter
+homeHeaderType = "img" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = false
 
 # menu
@@ -63,7 +63,7 @@ typeIcon = "🎯"
 myname = "ASCs"
 # email = "zzossig@gmail.com"
 whoami = "Aizu Student Creators / 会津大学プロダクト開発コミュニティ"
-bioImageUrl = ""
+bioImageUrl = "/logo.png"
 useGravatar = false
 location = "会津大学"
 # organization = "Hugo"

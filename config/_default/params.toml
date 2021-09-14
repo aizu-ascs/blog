@@ -1,7 +1,7 @@
 logoText = "ASCs"
 logoType = "short" # long, short
 description = "Aizu Student Creators(ASCs)のブログ"
-custom_css = []
+custom_css = ["css/custom.css"]
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = "/images/logo_text_sub.jpg"

@@ -80,7 +80,7 @@ IoT勉強会で必要な機材は[株式会社FaBo](https://fabo.store/)様に�
 
 勉強会終了後にとったアンケートの結果は以下のとおりで、参加者からの評価は結構好評でした。
 
-![test](1.png)
+![test](1.jpg)
 
 以下は感想の一部を抜粋したものです。
 
@@ -184,22 +184,22 @@ Zliの先輩にアイデア出しの方法について詳しい先輩がいた�
 
 - 受賞: Geek賞、Web賞1位、準グランプリ、LINE賞
 
-![秘書BOT](3.png)
-![秘書BOT](4.png)
+![秘書BOT](3.jpg)
+![秘書BOT](4.jpg)
 
 「授業がいつあるのかを覚えていない」、「近所以外の飲食店を知らない」などの、会津大生の慢性的な課題を解決すべく作られたBotです。
 
 カレンダーのUIもとても綺麗に作られています。
 
-![秘書BOT](5.png)
+![秘書BOT](5.jpg)
 
 近くのお店一覧もGoogle Map APIを使って見やすく作られており、評価や所要時間、現在地からの距離もわかるようになっています。
 
-![秘書BOT](6.png)
+![秘書BOT](6.jpg)
 
 また、勉強会では教えていないNuxt.jsやAWSを使用するなど、技術スタックもモリモリになっており、ここが評価のポイントになりました。
 
-![秘書BOT](7.png)
+![秘書BOT](7.jpg)
 
 #### チーム2 TODOスケジューリングBOT
 
@@ -209,24 +209,24 @@ Zliの先輩にアイデア出しの方法について詳しい先輩がいた�
 
 リッチメニューが綺麗にデザインされており、機能も使いやすくまとまっています。
 
-![TODOスケジューリングBOT](8.png)
+![TODOスケジューリングBOT](8.jpg)
 
 TODOリストの編集画面はLIFFで作られています。
 
-![TODOスケジューリングBOT](9.png)
+![TODOスケジューリングBOT](9.jpg)
 
 登録したTODOは自動でスケジューリングされます。
 
-![TODOスケジューリングBOT](10.png)
+![TODOスケジューリングBOT](10.jpg)
 
 睡眠時間を入力してそこにはスケジュールしないようにする、成果報告をしてその分のTODOを減らすなど、かゆいところにも手が届く仕様になっています。
 
-![TODOスケジューリングBOT](11.png)
-![TODOスケジューリングBOT](12.png)
+![TODOスケジューリングBOT](11.jpg)
+![TODOスケジューリングBOT](12.jpg)
 
 また、チーム2はIoT, Web, LINEBotの混合チームになっていたため、IoTポモドーロタイマーも作成しました。
 
-![TODOスケジューリングBOT](13.png)
+![TODOスケジューリングBOT](13.jpg)
 
 #### チーム3 カーテン自動開閉システム
 
@@ -235,14 +235,14 @@ TODOリストの編集画面はLIFFで作られています。
 朝起きれないという課題から、カーテンを自動で開閉するシステムを開発しました。
 Googleカレンダーの予定を取得して、自動で起床時刻を設定するというユニークな機能もついています。
 
-![カーテン自動開閉システム](14.png)
-![カーテン自動開閉システム](15.png)
-![カーテン自動開閉システム](16.png)
+![カーテン自動開閉システム](14.jpg)
+![カーテン自動開閉システム](15.jpg)
+![カーテン自動開閉システム](16.jpg)
 
 サーバを立ててESPと通信させる、Webの設定画面を実装する、Google Calender APIを使うためにOAuthのRPを実装する、GeekDojoの3Dプリンターでケースを作成するなど、技術的にもかなりレベルが高い作品でした。
 
-![カーテン自動開閉システム](17.png)
-![カーテン自動開閉システム](18.png)
+![カーテン自動開閉システム](17.jpg)
+![カーテン自動開閉システム](18.jpg)
 
 #### チーム6 飽きないTodoList
 
@@ -250,15 +250,15 @@ Googleカレンダーの予定を取得して、自動で起床時刻を設定�
 
 従来のTodolistに対して、デザインを工夫することにより「飽きさせない」という点で差別化をはかった面白い作品です。
 
-![飽きないTodoList](19.png)
+![飽きないTodoList](19.jpg)
 
 各ボタンを押すことでデザインを切り替えられるようになっています。
 
-![飽きないTodoList](20.png)
+![飽きないTodoList](20.jpg)
 
 フロントエンドは今回勉強会で教えていないReact.jsを用いて作られており、技術的にもレベルの高い作品になっています。
 
-![飽きないTodoList](21.png)
+![飽きないTodoList](21.jpg)
 
 #### チーム8 Assignment Manager
 
@@ -266,24 +266,24 @@ Googleカレンダーの予定を取得して、自動で起床時刻を設定�
 
 学校のシステムが使いにくいため、それを使いやすくするアプリケーションを作ろうという作品です。
 
-![Assignment Manager](22.png)
+![Assignment Manager](22.jpg)
 
 リッチメニューのデザインがとても綺麗に作られています。
 
-![Assignment Manager](23.png)
+![Assignment Manager](23.jpg)
 
 FlexMessageもとても綺麗なデザインになっていて、全体的にデザインの完成度がとても高いです。
 スライドの完成度も高く、とてもわかりやすいです。
 LMSからの課題取得、DBでのデータ管理をするなど技術面もしっかり実装されており、全体的にバランスが良い作品になっています。
 
-![Assignment Manager](24.png)
-![Assignment Manager](25.png)
+![Assignment Manager](24.jpg)
+![Assignment Manager](25.jpg)
 
 イースターエッグ的なネタ機能も実装していて、ここのウケもかなり良かったです。
 
-![Assignment Manager](26.png)
-![Assignment Manager](27.png)
-![Assignment Manager](28.png)
+![Assignment Manager](26.jpg)
+![Assignment Manager](27.jpg)
+![Assignment Manager](28.jpg)
 
 #### チーム11 多機能カレンダー
 
@@ -292,15 +292,15 @@ LMSからの課題取得、DBでのデータ管理をするなど技術面もし
 現在のカレンダーアプリにないような機能をいろいろ追加したニュータイプのカレンダーです。
 このチームはデザインコースのみで構成されており、成果物もFigmaで作ったプロトタイプになります。
 
-![Assignment Manager](29.png)
+![Assignment Manager](29.jpg)
 
 デザインはニューモフィズムを採用しています。
 機能もユニークなものが多く、アイデアの完成度の高さも評価のポイントでした。
 
-![Assignment Manager](30.png)
-![Assignment Manager](31.png)
-![Assignment Manager](32.png)
-![Assignment Manager](33.png)
+![Assignment Manager](30.jpg)
+![Assignment Manager](31.jpg)
+![Assignment Manager](32.jpg)
+![Assignment Manager](33.jpg)
 
 #### チーム16 目覚まし時計
 
@@ -308,16 +308,16 @@ LMSからの課題取得、DBでのデータ管理をするなど技術面もし
 
 普通のアラームでは朝起きられないため、顔に物を落とされたら起きられるのでは？というアイデアからうまれたユニークな作品です。
 
-![Assignment Manager](34.png)
-![Assignment Manager](35.png)
+![Assignment Manager](34.jpg)
+![Assignment Manager](35.jpg)
 
 筐体もしっかり作られています。
 
-![Assignment Manager](36.png)
+![Assignment Manager](36.jpg)
 
 ESP32のBLEを使って作られており、技術的にもかなりレベルが高いです。
 
-![Assignment Manager](37.png)
+![Assignment Manager](37.jpg)
 
 #### チーム17 スマホの使用時間を物理的に減らす
 
@@ -326,14 +326,14 @@ ESP32のBLEを使って作られており、技術的にもかなりレベルが
 グランプリ受賞作品です。
 スマホ依存症から脱却するために、スマホを物理的に封印する箱を作ろうというアイデアです。
 
-![Assignment Manager](38.png)
-![Assignment Manager](39.png)
+![Assignment Manager](38.jpg)
+![Assignment Manager](39.jpg)
 
 かなり工夫して作られており、技術的なレベルがとても高かったです。
 また、筐体はGeekDojoのレーザーカッターを使って作られており、完成度も高いです。
 
-![Assignment Manager](40.png)
-![Assignment Manager](41.png)
+![Assignment Manager](40.jpg)
+![Assignment Manager](41.jpg)
 
 ### ハッカソンの個人的な感想
 

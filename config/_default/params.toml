@@ -164,12 +164,12 @@ commento = false
   email = ""
   phone = ""
   facebook = ""
-  twitter = "https://twitter.com/AizuHack"
+  twitter = "https://twitter.com/aizu_ascs"
   github = "https://github.com/aizu-ascs"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
-  youtube = "https://www.youtube.com/channel/UCkp4FGD0oDd7IZqvilxEt1A"
+  youtube = "https://www.youtube.com/channel/UCEw-mZlINYfqYrF8qRdVjEA"
   medium = ""
   tumblr = ""
   linkedin = ""
@@ -207,8 +207,8 @@ commento = false
   name = "twitter"
 
 [[footerLinks]]
-  name = ""
-  link = ""
+  name = "プライバシーポリシー"
+  link = "/pvy"
 [[footerLinks]]
   name = ""
   link = ""

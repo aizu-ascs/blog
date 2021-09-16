@@ -17,6 +17,8 @@ rssLimit = 100
 enableGitInfo = false
 googleAnalytics = ""
 
+enableRobotsTXT = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

@@ -8,6 +8,11 @@ enableToc: true
 enableTocContent: false
 author: しんぶんぶん
 authorEmoji: 📰
+authorImage: "/images/profile/shinbunbun.jpg"
+socialOptions:
+  twitter: "https://twitter.com/shinbunbun_"
+  github: "https://github.com/shinbunbun"
+authorDesc: "29期 / ASCs代表"
 tags: 
 - 報告
 ---
